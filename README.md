@@ -7,7 +7,7 @@
 </td>
 <td>
 
-# CLAUDE-team
+# Claude-Team
 
 **Claude × Codex × Gemini = 超级生产力**
 
@@ -29,9 +29,9 @@
 
 ---
 
-## 💡 CLAUDE-team 项目简介
+## 💡 Claude-Team 项目简介
 
-还在多个AI工具间疲于奔命？论文读不完、代码写不动、数据理不清……**CLAUDE-team** 为你组建一支7×24待命的AI梦之队：
+还在多个AI工具间疲于奔命？论文读不完、代码写不动、数据理不清……**Claude-Team** 为你组建一支7×24待命的AI梦之队：
 
 - **📖 Claude**：深度理解与全局统筹，负责阅读长文、撰写论文、协调团队
 - **💻 Codex**：代码实现与调试专家，从算法原型到生产级代码一气呵成
@@ -40,7 +40,7 @@
 你只需一个入口提出需求，三位AI自动分工协作，将完整结果呈现眼前。**从此告别工具切换，专注伟大构想。**
 
 <div align="center">
-<img src="figures/work.png" alt="CLAUDE-team 工作流程" width="100%"/>
+<img src="figures/work.png" alt="Claude-Team 工作流程" width="100%"/>
 </div>
 
 ---
@@ -49,7 +49,7 @@
 
 <div align="center">
 <video src="figures/demo.mp4" width="100%" controls></video>
-*实际使用演示：看 CLAUDE-team 如何协调三个 AI 完成任务*
+*实际使用演示：看 Claude-Team 如何协调三个 AI 完成任务*
 </div>
 
 ---
@@ -110,11 +110,11 @@ Codex: [codexzh.com](https://codexzh.com/?ref=D181A8)  <br>
 Claude Code: [ccodezh.com](https://ccodezh.com/)
 ---
 
-### 步骤 3：配置 CLAUDE-team 协作环境
+### 步骤 3：配置 Claude-Team 协作环境
 
 ```bash
-git clone https://github.com/smart-lty/CLAUDE-team.git
-cd CLAUDE-team
+git clone https://github.com/smart-lty/Claude-Team.git
+cd Claude-Team
 bash setup.sh
 ```
 
@@ -161,6 +161,6 @@ Made with ❤️ for researchers
 
 ---
 
-*本项目 README 由 CLAUDE-team 生成*
+*本项目 README 由 Claude-Team 生成*
 
 </div>
