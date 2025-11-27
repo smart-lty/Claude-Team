@@ -49,7 +49,10 @@
 
 <div align="center">
   
-<video src="figures/demo.mp4" width="50%" controls></video>
+
+https://github.com/user-attachments/assets/f8eae51e-93bc-4e81-80a1-748b1c4aea70
+
+
 
 *实际使用演示：看 Claude-Team 如何协调三个 AI 完成任务*
 
