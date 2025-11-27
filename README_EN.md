@@ -48,7 +48,12 @@ One interface, three AI experts working in harmony. **Say goodbye to context swi
 ## 🎬 Demo
 
 <div align="center">
-<video src="figures/demo.mp4" width="100%" controls></video>
+  
+
+
+https://github.com/user-attachments/assets/32b43902-c850-49a0-bddc-045627fbb706
+
+
 *Live demonstration: Watch Claude-Team coordinate three AIs to complete tasks*
 </div>
 
