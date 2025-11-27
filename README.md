@@ -48,8 +48,11 @@
 ## 🎬 Demo 演示
 
 <div align="center">
-<video src="figures/demo.mp4" width="100%" controls></video>
+  
+<video src="figures/demo.mp4" width="50%" controls></video>
+
 *实际使用演示：看 Claude-Team 如何协调三个 AI 完成任务*
+
 </div>
 
 ---
