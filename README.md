@@ -155,7 +155,7 @@ claude
 
 ### 设计资源
 
-- **Logo 和配图** 由 [Nano Banana Pro](https://www.anthropic.com/) 生成
+- **Logo 和配图** 由 Nano Banana Pro 生成
 
 ---
 
