@@ -111,9 +111,6 @@ gemini # 选择 "Login with Google" 或使用 API 密钥
 
 > **提示**：测试每个工具是否能正常对话，确认配置成功后再进行下一步。
 
-> **推荐**：没有 Codex 和 Claude Code 的官方付费账号？来试试这两个中转站！<br> 
-Codex: [codexzh.com](https://codexzh.com/?ref=D181A8)  <br>
-Claude Code: [ccodezh.com](https://ccodezh.com/)
 ---
 
 ### 步骤 3：配置 Claude-Team 协作环境
